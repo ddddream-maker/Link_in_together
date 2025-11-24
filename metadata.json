@@ -1,0 +1,5 @@
+{
+  "name": "连连看-测试版",
+  "description": "A classic tile-matching puzzle game. Connect matching fruit tiles with up to 3 straight lines to clear them before time runs out.",
+  "requestFramePermissions": []
+}
